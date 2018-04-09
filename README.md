@@ -5,6 +5,7 @@
 
 Ce TP permet d'illustrer l'utilisation de JPA, Jersey, JaxRS, Servlet et AngularJS
 ------------------
+
 Il existe deux possibilites d'interragir avec notre TP.
 Avec http://localhost:9955/monform.html pour ajouter des éléments dans la base
 Avec http://localhost:9955/UserInfoBis pour voir le contenu de la BDD.
